@@ -18,7 +18,7 @@
 
 ## 📫 How to reach me
 
-- Email: kostiv@example.com  
+- Email: kostiv.maksym.work@gmail.com
 - [Telegram](https://t.me/ussesenobito)  
 - [LinkedIn](https://www.linkedin.com/in/maksym-kostiv-b80bb5258/)
 
