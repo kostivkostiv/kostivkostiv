@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Maksym 👋
 
-<!--
-**kostivkostiv/kostivkostiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m learning Front-End development  
+🌱 Currently focusing on JavaScript, React, and SCSS  
+🧠 Always exploring how things work under the hood  
+🚀 I build pet projects to improve my skills every day  
+🎧 I love music, deep conversations, and self-reflection  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- JavaScript (ES6+)
+- HTML5 / CSS3 / SCSS
+- Git & GitHub
+- REST API
+- Redux toolkit
+- TypeScript
+
+## 📫 How to reach me
+
+- Email: kostiv@example.com  
+- [Telegram](https://t.me/ussesenobito)  
+- [LinkedIn](https://www.linkedin.com/in/maksym-kostiv-b80bb5258/)
+
+---
